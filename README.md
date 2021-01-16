@@ -16,6 +16,6 @@ curl -i -H 'x-api-key: 123321' "http://localhost:5000/distance?city_start=0&city
 
 To run this project locally you need only [`Docker`](https://www.docker.com/):
 
-1. Clone [this repo](https://github.com/ShalamovMax/ITservice_test_task) (or download)
+1. Clone [this repo](https://github.com/ShalamovMax/ITservice_test-task) (or download)
 2. Run `docker-compose up` in the root of the project
 3. Wait for the installation to finish⏳
